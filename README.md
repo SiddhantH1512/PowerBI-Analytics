@@ -63,10 +63,6 @@ The dataset used for this analysis includes detailed information on Netflix's mo
 
 The Power BI dashboard provides a comprehensive and interactive platform to analyze Netflix's content library. It serves as a valuable tool for understanding the distribution and trends of Netflix content across different countries, aiding in strategic decision-making for content creation and distribution.
 
-## Repository Structure
-
-- **/data:** Contains the dataset used for analysis.
-- **/dashboard:** Power BI dashboard files.
 
 ## How to Use
 
