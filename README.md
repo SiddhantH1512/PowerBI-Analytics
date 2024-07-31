@@ -76,5 +76,6 @@ The Power BI dashboard provides a comprehensive and interactive platform to anal
 
 ## Screenshot
 
-https://github.com/user-attachments/assets/c3d06c6e-689c-44fb-a536-bf822cc09eac
+![Snap_1](https://github.com/user-attachments/assets/53bc50c3-b1c5-4c3d-a163-42af62adbaf8)
+
 
